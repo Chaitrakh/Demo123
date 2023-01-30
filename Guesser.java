@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Guesser
+class Guesser1
 {
 	int guessNum;
 	
